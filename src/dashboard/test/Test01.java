@@ -1,7 +1,10 @@
-package test;
+package dashboard.test;
 
-import
+import dashboard.screen.Screen;
 
 public class Test01 {
-    new Screen();
+    public static void main(String[] args) {
+        new Screen();
+        System.out.println("A melhor video parte de skate");
+    }
 }
